@@ -1,4 +1,4 @@
-# How to use catch up
+# How to catch up
 
 first follow these steps to start and run it
 
